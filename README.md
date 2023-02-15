@@ -22,7 +22,7 @@ Users should be able to:
 
 ![huddle_landing_page_with_curved_sections_desktop_version](./huddle_landing_page_with_curved_sections_mobile_version.png)
 
-![huddle_landing_page_with_curved_sections_mobile_version](./huddle_landing_page_with_curved_sections_mobile_version.png)
+![huddle_landing_page_with_curved_sections_mobile_version](./huddle_landing_page_with_curved_sections_desktop_version.png)
 
 ## My process
 
